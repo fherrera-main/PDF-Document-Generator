@@ -1,0 +1,32 @@
+[
+    {
+        "idFicha":"",
+        "OfacOnuInterpolCoincidences":[
+            {
+                "name": "NASER MALEKI",
+                "program": "Iran",
+                "activity": null,
+                "list": "ONU",
+                "status": "Activo",
+                "score": 96
+            },
+            {
+                "name": "NASER MALEKI",
+                "program": "LISTA CONSOLIDADA DEL CONSEJO DE SEGURIDAD DE LAS ",
+                "activity": "Head of Shahid Hemmat Industrial Group (SHIG)",
+                "list": "ONU",
+                "status": "Activo",
+                "score": 96
+            },
+            {
+                "name": "Naser MALEKI",
+                "program": "SDN",
+                "activity": null,
+                "list": "OFAC",
+                "status": "Activo",
+                "score": 96
+            }
+        ]
+    }
+   
+]

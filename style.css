@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600&display=swap');
+* {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+}
+/* TODO: Agregar clases para textos regcheq */
+body {
+    margin: 24px;
+}
+#generatedElement {
+    width: 1200px;
+    margin: 0 auto;
+}
+.pre-headers {
+    border: 1px solid black;
+    width: 500px;
+}
