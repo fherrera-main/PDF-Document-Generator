@@ -4,4 +4,6 @@ const mallaSocietaria = {
     en: {}
 }
 
-export default mallaSocietaria
+export { 
+    mallaSocietaria
+}

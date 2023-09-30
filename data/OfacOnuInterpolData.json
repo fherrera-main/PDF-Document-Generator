@@ -1,6 +1,6 @@
-[
+
     {
-        "idFicha":"",
+        "idFicha":"123456789",
         "OfacOnuInterpolCoincidences":[
             {
                 "name": "NASER MALEKI",
@@ -28,5 +28,3 @@
             }
         ]
     }
-   
-]

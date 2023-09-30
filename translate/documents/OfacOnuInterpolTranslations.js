@@ -40,4 +40,6 @@ const ofacOnuInterpol = {
     }
 }
 
-export default ofacOnuInterpol
+export { 
+    ofacOnuInterpol
+}
